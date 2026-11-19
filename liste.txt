@@ -3,4 +3,4 @@
 #   buffet, salon, cheminée, cinéma 1, cinéma 2     (0 = tableau d'origine)
 # Les photos vont dans le dossier p/ : p/001.jpg, p/002.jpg, p/003.jpg...
 # Un joueur absent de la liste voit les photos par défaut.
-Radwolf_fr: 0,1,2,3,4
+# Radwolf_fr: 0,1,2,3,4
