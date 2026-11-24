@@ -4,4 +4,4 @@
 # Les photos vont dans le dossier p/ : p/001.jpg, p/002.jpg, p/003.jpg...
 # Un joueur absent de la liste voit les photos par défaut.
 # Radwolf_fr: 0,1,2,3,4
- karidu59: 1,1,1,1,1,2
+ karidu59: 1,1,1,1,1,2,x
