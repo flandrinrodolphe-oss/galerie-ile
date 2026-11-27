@@ -5,4 +5,4 @@
 # Un joueur absent de la liste voit les photos par défaut.
 # Radwolf_fr: 0,1,2,3,4
  karidu59: 1,1,1,1,1,1,1
- Cris.30   
+ Cris.30   2,3,4,2,3,4,2
